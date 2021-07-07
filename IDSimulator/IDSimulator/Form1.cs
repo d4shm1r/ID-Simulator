@@ -35,23 +35,17 @@ namespace Guess_Your_ID {
             int rdmNum = rdm.Next(9, 999);
 
             // Toggle Gender RadioButton
-            if (Male.Checked) {
-                if (rdmNum < 100) {
-                    textBox1.Text = day + month + year.Remove(0, 1) + "450" + "0" + Convert.ToString(rdmNum);
-                } else {
-                    textBox1.Text = day + month + year.Remove(0, 1) + "450" + Convert.ToString(rdmNum);
-                }
+            if (Male.Checked && rdmNum < 100) {
+                textBox1.Text = day + month + year.Remove(0, 1) + "450" + "0" + Convert.ToString(rdmNum);
+            } else {
+                textBox1.Text = day + month + year.Remove(0, 1) + "450" + Convert.ToString(rdmNum);
             }
-            else if (Female.Checked) {
-                if (rdmNum < 100) {
-                    textBox1.Text = day + month + year.Remove(0, 1) + "455" + "0" + Convert.ToString(rdmNum);
-                }
-                else {
-                    textBox1.Text = day + month + year.Remove(0, 1) + "455" + Convert.ToString(rdmNum);
-                }
+
+            if (Female.Checked && rdmNum < 100) {
+                textBox1.Text = day + month + year.Remove(0, 1) + "455" + "0" + Convert.ToString(rdmNum);
             }
             else {
-                textBox1.Text = "";
+                textBox1.Text = day + month + year.Remove(0, 1) + "455" + Convert.ToString(rdmNum);
             }
         }
     }
