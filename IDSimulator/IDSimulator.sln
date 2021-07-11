@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guess Your ID", "Guess Your ID\Guess Your ID.csproj", "{D0E52BE1-B49C-4494-8BF4-4C623E55BC04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E52BE1-B49C-4494-8BF4-4C623E55BC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E52BE1-B49C-4494-8BF4-4C623E55BC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E52BE1-B49C-4494-8BF4-4C623E55BC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E52BE1-B49C-4494-8BF4-4C623E55BC04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45823645-615D-4A2F-977A-B3A74E9733D1}
+	EndGlobalSection
+EndGlobal

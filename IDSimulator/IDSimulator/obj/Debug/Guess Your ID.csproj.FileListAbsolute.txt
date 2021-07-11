@@ -1,0 +1,10 @@
+C:\Users\Dashmir\source\repos\Guess Your ID\Guess Your ID\bin\Debug\Guess Your ID.exe.config
+C:\Users\Dashmir\source\repos\Guess Your ID\Guess Your ID\bin\Debug\Guess Your ID.exe
+C:\Users\Dashmir\source\repos\Guess Your ID\Guess Your ID\bin\Debug\Guess Your ID.pdb
+C:\Users\Dashmir\source\repos\Guess Your ID\Guess Your ID\obj\Debug\Guess Your ID.csproj.AssemblyReference.cache
+C:\Users\Dashmir\source\repos\Guess Your ID\Guess Your ID\obj\Debug\Guess_Your_ID.Form1.resources
+C:\Users\Dashmir\source\repos\Guess Your ID\Guess Your ID\obj\Debug\Guess_Your_ID.Properties.Resources.resources
+C:\Users\Dashmir\source\repos\Guess Your ID\Guess Your ID\obj\Debug\Guess Your ID.csproj.GenerateResource.cache
+C:\Users\Dashmir\source\repos\Guess Your ID\Guess Your ID\obj\Debug\Guess Your ID.csproj.CoreCompileInputs.cache
+C:\Users\Dashmir\source\repos\Guess Your ID\Guess Your ID\obj\Debug\Guess Your ID.exe
+C:\Users\Dashmir\source\repos\Guess Your ID\Guess Your ID\obj\Debug\Guess Your ID.pdb
